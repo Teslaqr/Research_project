@@ -1,0 +1,13 @@
+{
+  "id": "YOUR_KAGGLE_USERNAME/saa-bottle-demo",
+  "title": "SAA+ Bottle Anomaly Demo",
+  "code_file": "saa_bottle_demo.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "dataset_sources": ["ipythonx/mvtec-ad"],
+  "competition_sources": [],
+  "kernel_sources": []
+}
